@@ -6,5 +6,5 @@ module.exports = function(config) {
       'dist/**/*.js',
       'test/**/*.spec.js'
     ]
-  });
-};
+  })
+}
