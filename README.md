@@ -1,2 +1,2 @@
 # sip
-A small gulp samlpe
+A small gulp sample
