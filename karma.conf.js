@@ -1,7 +1,7 @@
 module.exports = function(config) {
   config.set({
     browsers: ['Chrome'],
-    frameworks: ['jasmine', 'mocha'],
+    frameworks: ['jasmine'],
     files: [
       'dist/**/*.js',
       'test/**/*.spec.js'
